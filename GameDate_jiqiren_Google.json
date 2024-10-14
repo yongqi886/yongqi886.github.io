@@ -1,0 +1,180 @@
+{
+	"version_msg": "已有最新版本，点击屏幕下载最新版本",
+	"version": "1.1.2",
+	"show_close": false,
+	"str_loadout": "广告收益将用于多人联机版服务器维护感谢支持",
+	"url": "https://www.3839.com/a/140897.htm",
+	"newGameImageURL": "",
+	"newGameClickURL": "",
+	"tip": "当前版本过低，请更新到最新版本！",
+	"UmengCode": "61d53b87e014255fcbd9a4d5",
+
+	"CSJAppKey": "5261090",
+	"CSJStimulateAppPos": "947609583",
+	"CSJFullAppPos": "947609557",
+	"CSJBannerAppPos": "947609540",
+	"CSJDialogADAppPos": "947609643",
+	"CSJNewChaPing": "947632991",
+
+	"FirstFullDjsTime": 15,
+	"FullDjsJGTime": 15,
+	"FullDJS": 15,
+	"ChaPingTime": 15,
+
+	"VCode4": false,
+	"VCode5": false,
+	"VCode6": false,
+	"VCode7": false,
+	"VCode8": false,
+	"VCode9": false,
+
+	"EnableADBanner": false,
+	"EnableADFullScreen": false,
+	"EnableADReward": true,
+	"EnableAdAutoFire": true,
+	"EnableGameLoginAD": true,
+	"EnableNewChaPing": false,
+	"EnableXinXiLiu": false,
+	"GoogleTest": false,
+
+
+	"PrimaryWeaponBtnFullScreen": true,
+	"SettingBtnFullScreen": true,
+	"DieFullScreen": false,
+	"MapBtnFullScreen": true,
+	"VictoryFullScreen": true,
+	"SelectWeaponFullScreen": true,
+
+
+	"EnableADSettingBtn": 4,
+	"EnableADSceneLoading": 4,
+	"EnableADBattleStart": 4,
+	"EnableADMainSingle": 4,
+	"EnableADMainReturn": 4,
+	"EnableADMain": 0,
+	"EnableADBattleSelect1": 0,
+	"EnableADBattleSelect2": 0,
+	"EnableADBattleSelect3": 0,
+	"EnableADBattleSelect4": 0,
+	"EnableADBattleSelect5": 0,
+	"EnableADBattleSelectUIOK": 4,
+	"EnableADBattleSelectUIBack": 4,
+	"EnableADBattleUIRun": 4,
+	"EnableADBattleUISetting": 4,
+	"EnableADBattleUIAim": 4,
+	"EnableADBattleUIJump": 4,
+	"EnableADBattleDie": 4,
+	"FullRange": 20,
+	"BannerRange": 20,
+	
+	"EnableADMapSelect": 4,
+	"EnableADWeaponSelector": 4,
+	"EnableADSelectWeapon": 4,
+	"EnableADMiniMap": 4,
+	"EnableADEndGame": 4,
+
+	"GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~1809095713", "SetPOSID": "ca-app-pub-5905429623966788/1717532734" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~1809095713", "SetPOSID": "ca-app-pub-5905429623966788/4120334790" },
+
+    "OrderADBanner": ["GAD"],
+    "OrderADReward": ["GAD"],
+    "OrderADInterstitial": ["GAD"],
+	"OrderADFullScreen": ["GAD"],
+
+	"MetaInterADInterval": 60,
+	"MetaFullScreenADInterval": 60,
+
+	"victoryPoints": 100,
+	"NetworkMode": false,
+	"NetworkModeUnlockMatchCount": 0,
+
+	"weapon1_ad_list1": [
+		"M4A4自动步枪:0",
+		"SRA1-超级联赛:0",
+		"SRA1战斗步枪:0",
+		"AUG自动步枪:1",
+		"AUG-超级联赛:0",
+		"Famas自动步枪:1",
+		"QBZ95自动步枪:1",
+		"MP7冲锋枪:1",
+		"AWP狙击步枪:2",
+		"AWP-超级联赛:0",
+		"AK47 - 红魔:2",
+		"AK47 - 雷神:2",
+		"AK47 - 黄金:2",
+		"M4A1 - 黄金:2",
+		"M4A1 - 彗星:2",
+		"M4A1 - 红狼:2",
+		"M240重机枪:2",
+		"M24手雷:1",
+		"RPG:1",
+	
+		"AT4反坦克炮:1",
+		"电磁激光加特林:1",
+		"火麒麟AK47:0",
+		"遥控炸弹:1",
+		"M24烟雾弹:1",
+
+		"地瓜手雷:1",
+		"地瓜手雷-红色恶魔:0",
+		"地瓜手雷-黄色香蕉:0",
+		"蓝色能量棒:1",
+		"SRA1 Holo战斗步枪:1",
+		"KC-17冲锋枪:2",
+		"KC17-超级联赛:0",
+		"KC-17s Scoped冲锋枪:1",
+		"Coil Gun战斗步枪:1",
+		
+		"Shield射击步枪:2",
+		"Shield战斗步枪:2",
+		"X-Ray狙击步枪:1",
+		"X Ray-超级联赛:0",
+		"柯尔特左轮:0",
+		"电磁连发手枪:1",
+	
+		"蓝色能量炮:1",
+		"移动护盾:1",
+		"移动护盾-超级联赛:0",
+		"手斧:0",
+		"小刀:0",
+		"红色激光剑:1",
+		"蓝色激光剑:1",
+		"异星毁灭者:1",
+	
+		"兴奋剂:1",
+	
+		"激光充能手枪:1",
+		"SGL-3型加农炮:1",
+		"SRA12 PhFr狙击步枪:2",
+		"SRA12 PhFr-超级联赛:0",
+		"LGSR-128狙击步枪:2",
+		"超级激光武器:1",
+		"ASLM-防空炮:1",
+		"弹药箱:0",
+		"医疗箱:0"
+
+
+	],
+
+	"unlock_ad_infantrys_list": [
+		"RifleInfantry:0",
+		"AssaultInfantryA:0",
+		"SniperInfantry:1",
+		"MedicalInfantry:0",
+		"AssaultInfantryB:0",
+		"HeavySniperInfantry:1",
+		"ReplenishmentInfantry:0",
+		"HeavyMachineGunInfantry:1"
+	],
+
+	"ADMaskMap_List":[
+		"ADMap1:1",
+		"ADMap2:1",
+		"ADMap3:2",
+    "ADMap4:2",
+    "ADMap5:1",
+    "ADMap6:2"
+	]
+
+	
+}
