@@ -73,8 +73,8 @@
 	"EnableADMiniMap": 4,
 	"EnableADEndGame": 4,
 
-	"GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~1809095713", "SetPOSID": "ca-app-pub-5905429623966788/1717532734" },
-    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~1809095713", "SetPOSID": "ca-app-pub-5905429623966788/4120334790" },
+	"GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~3175046065", "SetPOSID": "ca-app-pub-5905429623966788/5042661509" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~3175046065", "SetPOSID": "ca-app-pub-5905429623966788/6355743172" },
 
     "OrderADBanner": ["GAD"],
     "OrderADReward": ["GAD"],
