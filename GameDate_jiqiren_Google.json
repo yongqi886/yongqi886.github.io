@@ -29,7 +29,7 @@
 	"VCode9": false,
 
 	"EnableADBanner": false,
-	"EnableADFullScreen": false,
+	"EnableADFullScreen": true,
 	"EnableADReward": true,
 	"EnableAdAutoFire": true,
 	"EnableGameLoginAD": true,
