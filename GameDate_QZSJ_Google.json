@@ -51,7 +51,6 @@
 	"EnableADSettingBtn": 0,
 	"EnableADSceneLoading": 0,
 	"EnableADMainSingle": 0,
-	"EnableADMainReturn": 0,
 	"EnableADMain": 0,
 	"EnableADBattleSelect1": 0,
 	"EnableADBattleSelect2": 0,
@@ -65,17 +64,19 @@
 	"EnableADBattleUIJump": 0,
 	
 	"EnableADBattleUISetting": 1,
-	"EnableADBattleStart": 1,
+	"EnableADBattleStart": 0,
 	"EnableADBattleDie": 1,
-	"EnableADBattleFire": 1,
-	"EnableADBattleDeploy": 1,
-	"EnableADBattleMap": 1,
+	"EnableADBattleFire": 0,
+	"EnableADBattleDeploy": 0,
+	"EnableADBattleMap": 0,
 	"EnableADBattleWin": 1,
+	"EnableADMainReturn": 1,
 	
 	"FullRange": 20,
 	"BannerRange": 20,
 	
-	"MetaFullScreenADInterval": 60,
+	"MetaFullScreenADInterval": 0,
+	"MetaFullScreenLimitADInterval": 60,
 
 	"MetaAdVideoADMgr": {
 		"SetAPPKEY": "1233266329",
