@@ -38,7 +38,7 @@
 
 	"EnableADSplash": false,
 	"EnableADBanner": false,
-	"EnableADFullScreen": true,
+	"EnableADFullScreen": false,
 	"EnableADReward": true,
 	"EnableAdAutoFire": true,
 	"EnableGameLoginAD": true,
@@ -48,26 +48,34 @@
 	"IsOpenSH": true,
 
 
-	"EnableADSettingBtn": 1,
-	"EnableADSceneLoading": 1,
-	"EnableADBattleStart": 1,
-	"EnableADMainSingle": 1,
-	"EnableADMainReturn": 1,
+	"EnableADSettingBtn": 0,
+	"EnableADSceneLoading": 0,
+	"EnableADMainSingle": 0,
+	"EnableADMainReturn": 0,
 	"EnableADMain": 0,
 	"EnableADBattleSelect1": 0,
 	"EnableADBattleSelect2": 0,
 	"EnableADBattleSelect3": 0,
 	"EnableADBattleSelect4": 0,
 	"EnableADBattleSelect5": 0,
-	"EnableADBattleSelectUIOK": 1,
-	"EnableADBattleSelectUIBack": 1,
-	"EnableADBattleUIRun": 1,
+	"EnableADBattleSelectUIOK": 0,
+	"EnableADBattleSelectUIBack": 0,
+	"EnableADBattleUIRun": 0,
+	"EnableADBattleUIAim": 0,
+	"EnableADBattleUIJump": 0,
+	
 	"EnableADBattleUISetting": 1,
-	"EnableADBattleUIAim": 1,
-	"EnableADBattleUIJump": 1,
+	"EnableADBattleStart": 1,
 	"EnableADBattleDie": 1,
+	"EnableADBattleFire": 1,
+	"EnableADBattleDeploy": 1,
+	"EnableADBattleMap": 1,
+	"EnableADBattleWin": 1,
+	
 	"FullRange": 20,
 	"BannerRange": 20,
+	
+	"MetaFullScreenADInterval": 60,
 
 	"MetaAdVideoADMgr": {
 		"SetAPPKEY": "1233266329",
