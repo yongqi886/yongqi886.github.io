@@ -1,0 +1,64 @@
+{
+    "version": 0,
+    "version_msg": "",
+    "show_close": false,
+    "str_loadout": "",
+    "url": "",
+    "newGameImageURL": "",
+    "newGameClickURL": "",
+    "Announcement": "",
+
+    "PrivacyURL": "",
+    "AgreementURL": "",
+    "HideAndSeekOpen": 0,
+    "EnableTestMode": false,
+    "EnableADInterstitial": true,
+    "EnableADBanner": false,
+    "EnableADFullScreen": true,
+    "EnableADReward": true,
+    "EnableInGameADdiban": false,
+
+    "EnableGameloginAD": 0,
+    "EnableStartWaveAD": 0,
+    "EnableEndWaveAD": 4,
+    "EnableStartShopAD": 0,
+    "EnableEndGameAD": 4,
+    "EnableBackToGameloginAD": 4,
+	"EnableClickPauseAD": 4,
+
+	"IntervalStartWaveAD": 4,
+	"IntervalEndWaveAD": 4,
+	"IntervalShopWaveAD": 4,
+    "TestAD": 0,
+
+    "MetaBannerADInterval": 20,
+    "MetaInterADInterval": 40,
+    "MetaFullScreenADInterval": 0,
+	
+	"StartWaveADInterval": 4,
+    "EndWaveADInterval": 4,
+    "StartShopADInterval": 2,
+
+
+    "UseSignature": false,
+    "signature": "",
+
+    "GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~8112384849", "SetPOSID": "ca-app-pub-5905429623966788/9476704882" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~8112384849", "SetPOSID": "ca-app-pub-5905429623966788/8961699564" },
+
+    "OrderADBanner": ["GAD"],
+    "OrderADReward": ["GAD"],
+    "OrderADInterstitial": ["GAD"],
+
+    "RebirthCount": 3,
+    "RebirthNeedADCount": 1,
+    "ShopBuyAssetCount": 3,
+    "ShopBuyAssetNeedADCount": 1,
+    "ShopAssetParameter": 100,
+
+    "CharacterADNumber": 1,
+    "PauseADNumber": 5,
+	"OpenMode":[1,1,1],
+	
+	"TestModeSwitch":false
+}
