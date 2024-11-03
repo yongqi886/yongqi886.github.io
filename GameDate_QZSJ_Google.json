@@ -38,7 +38,7 @@
 
 	"EnableADSplash": false,
 	"EnableADBanner": false,
-	"EnableADFullScreen": false,
+	"EnableADFullScreen": true,
 	"EnableADReward": true,
 	"EnableAdAutoFire": true,
 	"EnableGameLoginAD": true,
@@ -69,14 +69,14 @@
 	"EnableADBattleFire": 0,
 	"EnableADBattleDeploy": 0,
 	"EnableADBattleMap": 0,
-	"EnableADBattleWin": 1,
-	"EnableADMainReturn": 1,
+	"EnableADBattleWin": 0,
+	"EnableADMainReturn": 0,
 	
 	"FullRange": 20,
 	"BannerRange": 20,
 	
 	"MetaFullScreenADInterval": 0,
-	"MetaFullScreenLimitADInterval": 60,
+	"MetaFullScreenLimitADInterval": 0,
 
 	"MetaAdVideoADMgr": {
 		"SetAPPKEY": "1233266329",
