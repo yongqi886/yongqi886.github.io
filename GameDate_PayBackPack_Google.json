@@ -1,0 +1,106 @@
+{
+    "version": 0,
+    "version_msg": "",
+    "show_close": false,
+    "str_loadout": "",
+    "url": "",
+    "newGameImageURL": "",
+    "newGameClickURL": "",
+    "Announcement": "",
+
+    "PrivacyURL": "",
+    "AgreementURL": "",
+    "HideAndSeekOpen": 0,
+    "EnableTestMode": false,
+    "EnableADInterstitial": true,
+    "EnableADBanner": false,
+    "EnableADFullScreen": true,
+    "EnableADReward": true,
+    "EnableInGameADdiban": false,
+	"EnableTeaching":true,
+
+    "EnableGameloginAD": 0,
+    "EnableStartWaveAD": 0,
+    "EnableEndWaveAD": 0,
+    "EnableStartShopAD": 0,
+    "EnableEndGameAD": 0,
+    "EnableBackToGameloginAD": 0,
+    "EnableSettingButtonAD": 0,
+    "EnablePauseButtonAD": 0,
+    "EnableEquipmentButtonAD": 0,
+    "EnableCharacterButtonAD": 0,
+    "EnablePlayButtonAD": 0,
+    "EnableShopButtonAD": 0,
+    "EnablePassButtonAD": 0,
+    "EnableSevendaysButtonAD": 0,
+    "EnableDailyButtonAD": 0,
+    "Enable60sAutoAD": 0,
+    "EnableLevelupAD": 0,
+    "EnableItemAD": 0,
+
+    "TestAD": 0,
+
+    "MetaBannerADInterval": 0,
+    "MetaInterADInterval": 0,
+    "MetaFullScreenADInterval": 0,
+
+    "UseSignature": false,
+    "signature": "",
+
+    "GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~5589430762", "SetPOSID": "ca-app-pub-5905429623966788/4415949894" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~5589430762", "SetPOSID": "ca-app-pub-5905429623966788/6395245971" },
+
+    "OrderADReward": ["GAD"],
+    "OrderADInterstitial": ["GAD"],
+
+    "GooglePaySDK": { "EnableDebug":"","SetProducts": "lm01|lm01#lm02|lm02#lm03|lm03#lm04|lm04#lm05|lm05#lm06|lm06#ds02|ds02#ds03|ds03#ds04|ds04#db02|db02#db03|db03#db04|db04#db05|db05#db06|db06#db07|db07#wb02|wb02#wb03|wb03#wb04|wb04#wb05|wb05#wb06|wb06#wb07|wb07#wb08|wb08#fund01|fund01#fund02|fund02#fund03|fund03#fund04|fund04#fund05|fund05#fund06|fund06#mc01|mc01#mc02|mc02#mc04|mc04#dm01|dm01#dm02|dm02#dm03|dm03#dm04|dm04#dm05|dm05#dm06|dm06#cg01|cg01#cg02|cg02#cg03|cg03#cg04|cg04#cg05|cg05#cg06|cg06#cg07|cg07#cg08|cg08#cg09|cg09#cg10|cg10#cg11|cg11#cg12|cg12#cg13|cg13#cg14|cg14#cg15|cg15#key01|key01#key02|key02#key03|key03#key04|key04#key05|key05#key06|key06#key07|key07#key08|key08#key09|key09#key10|key10"},
+    "OrderPay": ["GooglePay"],
+
+    "RebirthCount": 3,
+    "RebirthNeedADCount": 1,
+    "ShopBuyAssetCount": 3,
+    "ShopBuyAssetNeedADCount": 1,
+    "ShopAssetParameter": 100,
+
+    "CharacterADNumber": 3,
+    "PauseADNumber": 5,
+    "OpenMode": [1, 1, 0],
+
+    "TestModeSwitch": false,
+    "OpenMixMode": false,
+
+    "PassDataSwitch": false,
+    "OpenLevelUp": true,
+	"LevelUpActivityTime": "2025-11-01 00:00:00",
+
+    "Gifts": [
+        { "Id": 1000, "TypeId": 1, "IconIndex": 0, "Name": "Txt_DayGift_Name1", "Tag": "每日首次进入游戏", "Context": "Txt_DayGift_Context1", "Rate": 100, "Items": [3, 80, 4, 20], "LimitTime": -1 },
+        { "Id": 1001, "TypeId": 1, "IconIndex": 0, "Name": "Txt_DayGift_Name1", "Tag": "上次通关进入游戏", "Context": "Txt_DayGift_Context1", "Rate": 30, "Items": [3, 95, 4, 5], "LimitTime": -1 },
+        { "Id": 1002, "TypeId": 1, "IconIndex": 0, "Name": "Txt_DayGift_Name1", "Tag": "上次失败进入游戏", "Context": "Txt_DayGift_Context1", "Rate": 60, "Items": [3, 40, 4, 60], "LimitTime": -1 },
+        { "Id": 2000, "TypeId": 2, "IconIndex": 1, "Name": "Txt_DayGift_Name2", "Tag": "每日首次进入角色界面", "Context": "Txt_DayGift_Context2", "Rate": 100, "Items": [], "LimitTime": 12 },
+        { "Id": 2001, "TypeId": 2, "IconIndex": 1, "Name": "Txt_DayGift_Name3", "Tag": "每日游玩三次", "Context": "Txt_DayGift_Context2", "Rate": 100, "Items": [], "LimitTime": 12 },
+        { "Id": 2002, "TypeId": 2, "IconIndex": 1, "Name": "Txt_DayGift_Name3", "Tag": "每日游玩五次", "Context": "Txt_DayGift_Context2", "Rate": 50, "Items": [], "LimitTime": 12 },
+        { "Id": 2003, "TypeId": 2, "IconIndex": 1, "Name": "Txt_DayGift_Name3", "Tag": "每日游玩七次", "Context": "Txt_DayGift_Context2", "Rate": 30, "Items": [], "LimitTime": 12 },
+        { "Id": 3000, "TypeId": 3, "IconIndex": 2, "Name": "Txt_DayGift_Name4", "Tag": "每日首次购买宝箱", "Context": "Txt_DayGift_Context3", "Rate": 100, "Items": [2, 200], "LimitTime": -1 },
+        { "Id": 3001, "TypeId": 3, "IconIndex": 3, "Name": "Txt_DayGift_Name5", "Tag": "每日购买三次宝箱", "Context": "Txt_DayGift_Context4", "Rate": 50, "Items": [2, 300], "LimitTime": -1 },
+        { "Id": 3002, "TypeId": 3, "IconIndex": 4, "Name": "Txt_DayGift_Name6", "Tag": "每日购买五次宝箱", "Context": "Txt_DayGift_Context5", "Rate": 30, "Items": [2, 500], "LimitTime": -1 },
+        { "Id": 3003, "TypeId": 3, "IconIndex": 5, "Name": "Txt_DayGift_Name7", "Tag": "每日首次进入装备界面", "Context": "Txt_DayGift_Context6", "Rate": 100, "Items": [1, 2000], "LimitTime": -1 },
+        { "Id": 3004, "TypeId": 3, "IconIndex": 5, "Name": "Txt_DayGift_Name7", "Tag": "每日首次升级角色", "Context": "Txt_DayGift_Context6", "Rate": 100, "Items": [1, 2000], "LimitTime": -1 },
+        { "Id": 3005, "TypeId": 4, "IconIndex": 5, "Name": "Txt_DayGift_Name7", "Tag": "每日首次升级装备金币不足", "Context": "随机获得5倍升级金币或者3倍升级金币", "Rate": 0, "Items": [3, 80, 5, 20], "LimitTime": 2 },
+        { "Id": 3006, "TypeId": 4, "IconIndex": 5, "Name": "Txt_DayGift_Name7", "Tag": "每日首次升级角色金币不足", "Context": "随机获得5倍升级金币或者3倍升级金币", "Rate": 0, "Items": [3, 80, 5, 20], "LimitTime": 2 },
+        { "Id": 3007, "TypeId": 3, "IconIndex": 6, "Name": "Txt_DayGift_Name8", "Tag": "每日游玩二次", "Context": "Txt_DayGift_Context7", "Rate": 100, "Items": [1, 300, 2, 80], "LimitTime": 4 },
+        { "Id": 3008, "TypeId": 3, "IconIndex": 7, "Name": "Txt_DayGift_Name9", "Tag": "每日游玩四次", "Context": "Txt_DayGift_Context8", "Rate": 50, "Items": [1, 500, 2, 120], "LimitTime": 6 },
+        { "Id": 3009, "TypeId": 3, "IconIndex": 8, "Name": "Txt_DayGift_Name10", "Tag": "每日游玩六次", "Context": "Txt_DayGift_Context9", "Rate": 30, "Items": [1, 800, 2, 160], "LimitTime": 8 },
+        { "Id": 3010, "TypeId": 3, "IconIndex": 9, "Name": "Txt_DayGift_Name11", "Tag": "每日游玩首次失败", "Context": "Txt_DayGift_Context10", "Rate": 100, "Items": [1, 1200, 2, 80], "LimitTime": 4 },
+        { "Id": 3011, "TypeId": 3, "IconIndex": 10, "Name": "Txt_DayGift_Name12", "Tag": "每日游玩失败三次", "Context": "Txt_DayGift_Context11", "Rate": 50, "Items": [1, 2000, 2, 200], "LimitTime": 8 },
+        { "Id": 3012, "TypeId": 3, "IconIndex": 5, "Name": "Txt_DayGift_Name13", "Tag": "金币不足领取", "Context": "Txt_DayGift_Context6", "Rate": 100, "Items": [1, 2000], "LimitTime": -1 },
+        { "Id": 3013, "TypeId": 3, "IconIndex": 3, "Name": "Txt_DayGift_Name14", "Tag": "钻石不足领取", "Context": "Txt_DayGift_Context3", "Rate": 0, "Items": [2, 200], "LimitTime": -1 },
+        { "Id": 4001, "TypeId": 5, "IconIndex": 11, "Name": "Txt_DayGift_Name15", "Tag": "新手礼包", "Context": "Txt_DayGift_Context12", "Rate": 100, "Items": [1, 500, 2, 100], "LimitTime": -1 }
+    ]
+
+
+
+
+
+
+}
