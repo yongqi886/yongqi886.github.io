@@ -38,7 +38,7 @@
 
 	"EnableADSplash": false,
 	"EnableADBanner": false,
-	"EnableADFullScreen": true,
+	"EnableADFullScreen": false,
 	"EnableADReward": true,
 	"EnableAdAutoFire": true,
 	"EnableGameLoginAD": true,
