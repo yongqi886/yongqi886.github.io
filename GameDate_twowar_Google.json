@@ -9,7 +9,7 @@
 
 
 	"EnableADBanner": false,
-	"EnableADFullScreen": true,
+	"EnableADFullScreen": false,
 	"EnableADReward": true,
 	"EnableAdAutoFire": true,
 	"EnableGameLoginAD": true,
@@ -43,8 +43,8 @@
 	"EnableADBattleDie": 0,
 	"IsGuoShen233": false,
 
-	"GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~7220408336", "SetPOSID": "ca-app-pub-5905429623966788/7338993680" },
-    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~7220408336", "SetPOSID": "ca-app-pub-5905429623966788/3209807294" },
+	"GADReward": { "SetAPPKEY": "ca-app-pub-5905429623966788~1354102749", "SetPOSID": "ca-app-pub-5905429623966788/3277558502" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5905429623966788~1354102749", "SetPOSID": "ca-app-pub-5905429623966788/9011749842" },
 
     "OrderADBanner": ["GAD"],
     "OrderADReward": ["GAD"],
